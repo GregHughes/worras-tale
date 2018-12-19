@@ -5,7 +5,7 @@
   "browser": "game.html",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/GregHughes/worras-tale"
   },
   "author": "Greg Hughes"
 }
