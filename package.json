@@ -1,0 +1,11 @@
+{
+  "name": "worras-tale",
+  "version": "1.0.0",
+  "description": "A JavaScript game built with the Phaser game engine.",
+  "browser": "game.html",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Greg Hughes"
+}
